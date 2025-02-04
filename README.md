@@ -1,4 +1,2 @@
-- The actual repo:
-- Sorry for the confusion!
-
-https://github.com/smbursuc/Web-Application-Development
+- The actual repo: https://github.com/smbursuc/Web-Application-Development
+- Sorry for the confusion! I totally forgot I already made this repo for the project and made a new one before developing.
